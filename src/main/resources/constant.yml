@@ -1,0 +1,3 @@
+constant:
+    MONGO_POOL_NUM: 10
+    OUT_TIME: 100
